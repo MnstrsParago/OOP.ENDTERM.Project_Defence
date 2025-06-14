@@ -136,5 +136,5 @@ It showcases manual HTTP handling, SQL integrity, and clean object-structured lo
 ## 🧑‍💻 Author
 
 GitHub: [MnstrsParago](https://github.com/MnstrsParago)
-Course: Object-Oriented Programming (Spring 2025)
-University: Astana IT University
+Telegram: [@ser_bauyr](https://t.me/ser_bauyr)
+Instagram: [@bdnr05](https://www.instagram.com/bdnr05/)
