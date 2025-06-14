@@ -1,4 +1,7 @@
-# OOP.ASG4.Milestone2
+# Airline Reservation System
+
+**Subject:** Object-Oriented Programming  
+**Student:** Ayazbek Abdanur
 
 ## 📌 Overview
 
